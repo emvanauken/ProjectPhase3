@@ -1,5 +1,5 @@
 
-While attempting to tidy the Farm data we received from Bridget Meigs, the Farm manager, we discovered that there was not a sufficient number of variables for us to perform a meaningful data analysis project. Therefore, we have shifted gears to looking at U.S. Colleges using the College Scorecard compiled by the U.S. Department of Education. 
+While attempting to tidy the Farm data we received from Bridget Meigs, the Farm manager, we discovered that there was not a sufficient number of variables for us to perform a meaningful data analysis project. Therefore, we have shifted gears to looking at U.S. Colleges using the College Scorecard compiled by the U.S. Department of Education (https://collegescorecard.ed.gov/data/).
 
 This vast data set contains detailed information on seemingly every college in the United States; from admission rates, to percent of students who receive government loans, and even to religious affiliation of the college.
 
